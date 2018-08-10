@@ -1,7 +1,2 @@
-# mydock-deploy
-mydock-deploy
-
-
-# 有空时
-把 mydock 改成 mydock-build 或 mydock-source
-把 mydock-deploy 改成 mydock
+为了快速部署，服务只用镜像
+为了 tab 帮助完成输入和直观的显示有多少服务，没有配置文件的服务将使用空目录占位
